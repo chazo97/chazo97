@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Charlotte, a passionate developer from Manchester, England. I specialize in crafting engaging and responsive web applications using modern technologies.
+I'm Charlotte, a passionate developer from Manchester, England.
 
 **I love working with**
 
@@ -18,17 +18,15 @@ I'm Charlotte, a passionate developer from Manchester, England. I specialize in 
 - Building scalable web applications.
 - Developing a personal blog to share knowledge and learning journey.
 
-<!--### 🌱 I’m currently learning
+### 🌱 I’m currently learning
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</div> -->
-
-### 🤔 I’m looking for help with
-
-- Entry into the software engineering world 😁
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="Express.js/>
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React"/>
+  
+</div>
 
 ### 📫 Some of my socials
 
