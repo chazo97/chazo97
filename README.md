@@ -1,5 +1,9 @@
+
+![Alt text](https://i.imgur.com/CBoBBzU.png)
+
+
 <h1 align="center">Hi there 👋 I'm Charlotte</h1>
-<p align="center">💻 Frontend Enthusiast • 🌍 Based in Manchester, UK • 🚀 Lifelong Learner</p>
+<p align="center">💻 Frontend Enthusiast • 🌍 Based in Manchester, UK  🚀 Lifelong Learner</p>
 
 ### 👩‍💻 About Me
 
