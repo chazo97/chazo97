@@ -1,47 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Charlotte</h1>
+<p align="center">💻 Frontend Enthusiast • 🌍 Based in Manchester, UK • 🚀 Lifelong Learner</p>
 
-I'm Charlotte, a passionate developer from Manchester, England.
+### 👩‍💻 About Me
 
-**I love working with**
+I'm Charlotte, a passionate developer focused on crafting scalable web applications. I thrive on learning and love sharing my coding journey.
 
-<div display="flex">
-  <img src= "https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="html"/>
-  <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="Javascript"/>
-  <img src= "https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS"/>
-  <img src= "https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
-  <img src= "https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"/>
-  <img src= "https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="VSC"/>
-</div>
+### 🚀 Tech I Love Working With
 
-### 🔭 I’m currently working on
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-- Building scalable web applications.
-- Developing a personal blog to share knowledge and learning journey.
+### 🧠 Currently Exploring
 
-### 🌱 I’m currently learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+</p>
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="Express.js/>
-  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff" alt="Jest"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React"/>
-  
-</div>
+### 🛠️ Projects in Progress
 
-### 📫 Some of my socials
+- 🌐 Building modern, responsive, and accessible web apps  
+- ✍️ Creating a personal blog to document and share my development journey
 
-<div display="flex">
+### 🌐 Connect with Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/charlotte-orpet/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.behance.net/charlotteorpet">
-    <img src="https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white" alt="Behance"/>
+    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
-</div>
-
-### ⚡ Fun fact
-
-I once built a python app that works as a pokedex ⚡🔴
-
-
+</p>
 
