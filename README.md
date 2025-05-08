@@ -1,5 +1,5 @@
 
-![Alt text](https://i.imgur.com/CBoBBzU.png)
+![Personal_Banner](https://i.imgur.com/CBoBBzU.png)
 
 
 <h1 align="center">Hi there 👋 I'm Charlotte</h1>
