@@ -7,7 +7,7 @@
 
 ### 👩‍💻 About Me
 
-I'm Charlotte, a passionate developer focused on crafting scalable web applications. I thrive on learning and love sharing my coding journey.
+I'm Charlotte, a passionate developer focused on learning. I love sharing my coding journey.
 
 ### 🚀 Tech I Love Working With
 
