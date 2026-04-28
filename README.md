@@ -39,8 +39,5 @@ I'm Charlotte, a passionate developer focused on learning. I love sharing my cod
   <a href="https://www.linkedin.com/in/charlotte-orpet/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.behance.net/charlotteorpet">
-    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
 </p>
 
