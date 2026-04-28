@@ -26,12 +26,9 @@ I'm Charlotte, a passionate developer focused on learning. I love sharing my cod
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
 </p>
-
-### 🛠️ Projects in Progress
-
-- 🌐 Building modern, responsive, and accessible web apps  
-- ✍️ Creating a personal blog to document and share my development journey
 
 ### 🌐 Connect with Me
 
